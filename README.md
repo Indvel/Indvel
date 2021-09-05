@@ -1,6 +1,7 @@
-# Welcome to Indvel's Git!
+# Indvel(Ryu Sang Beom)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indvel&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indvel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Skills
 <p align='left'>
@@ -17,8 +18,26 @@
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=AdobeAfterEffects&logoColor=white"/>
   <img src="https://img.shields.io/badge/MS Office-D83B01?style=flat-square&logo=MicrosoftOffice&logoColor=white"/>
 </p>
+
+## Favorite Browser
+<p align='left'>
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
+</p>
+
+## Certificate(자격증)
+<ul>
+  <li>정보처리기능사</li>
+  <li>MOS(Microsoft Office Specialist) Master</li>
+  <li>전산회계2급</li>
+  <li>컴퓨터활용능력2급</li>
+  <li>워드프로세서1급</li>
+  <li>GTQ 2급</li>
+  <li>ITQ 한글(A), 엑셀(A), 파워포인트(B)</li>
+</ul>
 
 <!--
 **Indvel/Indvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
