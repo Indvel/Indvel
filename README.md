@@ -31,7 +31,7 @@
 ## Certificate(자격증)
 <ul>
   <li>정보처리기능사</li>
-  <li>MOS(Microsoft Office Specialist) Master</li>
+  <li><a href='/20210905_202616.jpg' target='_blank'>MOS(Microsoft Office Specialist) Master</a></li>
   <li>전산회계2급</li>
   <li>컴퓨터활용능력2급</li>
   <li>워드프로세서1급</li>
