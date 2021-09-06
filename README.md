@@ -30,6 +30,15 @@
   <img src="https://img.shields.io/badge/InternetExplorer-0076D6?style=flat-square&logo=InternetExplorer&logoColor=white"/>
 </p>
 
+## Interest of brands
+<p align='left'>
+  <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HP-0096D6?style=flat-square&logo=HP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razer-00FF00?style=flat-square&logo=Razer&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Logitech-00B8FC?style=flat-square&logo=Logitech&logoColor=white"/>
+</p>
+
+
 ## Certificate(자격증)
 <ul>
   <li>정보처리기능사</li>
