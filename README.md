@@ -1,7 +1,7 @@
 # Indvel(Ryu Sang Beom)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indvel&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indvel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indvel&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indvel&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Skills
 <p align='left'>
