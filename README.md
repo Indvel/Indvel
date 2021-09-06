@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/InternetExplorer-0076D6?style=flat-square&logo=InternetExplorer&logoColor=white"/>
 </p>
 
-## Using Cloud
+## Using Cloud Services
 <p align='left'>
   <img src="https://img.shields.io/badge/Dropbox-0061FF?style=flat-square&logo=Dropbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleDrive-4285F4?style=flat-square&logo=GoogleDrive&logoColor=white"/>
