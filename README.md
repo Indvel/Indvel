@@ -27,6 +27,7 @@
 ## Favorite Browser
 <p align='left'>
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/InternetExplorer-0076D6?style=flat-square&logo=InternetExplorer&logoColor=white"/>
 </p>
 
 ## Certificate(자격증)
