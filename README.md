@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Logitech-00B8FC?style=flat-square&logo=Logitech&logoColor=white"/>
 </p>
 
-## My Operation System
+## My Operation Systems
 <p align='left'>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
