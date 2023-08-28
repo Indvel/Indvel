@@ -55,6 +55,7 @@
 
 ## Certificate(자격증)
 <ul>
+  <li>정보처리산업기사</li>
   <li>정보처리기능사</li>
   <li><a href='/20210905_202616.jpg' target='_blank'>MOS(Microsoft Office Specialist) Master</a></li>
   <li>전산회계2급</li>
